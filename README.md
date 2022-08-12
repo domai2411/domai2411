@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @domai2411
-- 👀 I’m interested in php,python,nodejs,vue
-- 🌱 I’m currently learning vue3
-- 💞️ I’m looking to collaborate on vue3/bootstrap5 forum
+- 👀 I’m interested in php,python,java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me domai2411@gmail.com
 
 <!---
